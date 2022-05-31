@@ -1,0 +1,66 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Rice Air Curriculum - Lesson 1 (Student): Introduction to the Atmosphere</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34380</md:content-id>
+  <md:title>Rice Air Curriculum - Lesson 1 (Student): Introduction to the Atmosphere</md:title>
+  <md:abstract/>
+  <md:uuid>bef7d1e3-351d-48b0-868a-c48e681bd4d9</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="Lesson 1 (Student).doc" strength="3">Lesson 1 (Student)</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1171155762550">
+      <title>Overview</title>
+      <para id="id1171151432502">Today, you will begin to learn about the atmosphere—the air that surrounds Earth. Even though the atmosphere is mostly invisible gases, it plays important roles in protecting the Earth, regulating its temperature, and helping to sustain life. At the end of the lesson, your teacher will show you some cool tools that will let you measure the weather and air pollution outside your school and learn more about the air around you!</para>
+    </section>
+    <section id="id1171122570809">
+      <title>Demonstration: Glass of ice and water and the Three States of Matter</title>
+      <para id="id1171118273799">Your teacher will show you a glass of ice and water to demonstrate the three states of matter.</para>
+      <exercise id="id1171146032542">
+        <problem id="oo-id1171138770163">
+          <para id="id1171152012305">What solid do you see in this demonstration?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171124428894">
+        <problem id="oo-id1171145649620">
+          <para id="id1171149313495">What liquid do you see in this demonstration?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171120369986">
+        <problem id="oo-id1171149376158">
+          <para id="id1171131975369">Even though water vapor gas in the air is invisible, how do we know it exists? (Hint: Think about why the water droplets form on the outside of the glass.)</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="id1171123642027">
+      <title>Discussion </title>
+      <para id="id1171146032211"><emphasis>Gases.</emphasis> Your teacher will help you brainstorm other examples that demonstrate that air exists, even though most gases are invisible.</para>
+      <exercise id="id1171118298562">
+        <problem id="oo-id1171118295275">
+          <para id="id1171128697214">What are examples of things you can observe to see that air really does exist?</para>
+        </problem>
+      </exercise>
+      <para id="id1992187"><emphasis>Atmosphere.</emphasis> Your teacher will share with you some interesting facts the atmosphere and help you brainstorm why the atmosphere is so important.</para>
+      <exercise id="id1171124600829">
+        <problem id="oo-id1171118249893">
+          <para id="id1171125789342">What are some examples of why the atmosphere is so important for life on Earth?</para>
+        </problem>
+      </exercise>
+      <para id="id1171141959512">
+        <figure id="id1171155093790">
+          <media id="id1171155093790_media" alt="">
+            <image mime-type="image/png" src="../../media/Object 2-6637.png" id="id1171155093790__onlineimage" height="890" width="650"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1171141900091"/>
+    </section>
+  </content>
+</document>

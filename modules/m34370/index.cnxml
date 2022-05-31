@@ -1,0 +1,107 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Rice Air Curriculum - Lesson 7 (Teacher): Analyzing GLOBE Data</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34370</md:content-id>
+  <md:title>Rice Air Curriculum - Lesson 7 (Teacher): Analyzing GLOBE Data</md:title>
+  <md:abstract/>
+  <md:uuid>4dbb4bde-2a31-4d00-9482-59940fc715a0</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="Lesson 7 (Teacher).doc" strength="3">Lesson 7 (Teacher)</link>
+      <link url="Lesson 7 (Key).doc" strength="3">Answer Key to Lesson 7 Student Worksheets</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <note id="id1165298756211" type="Note">Suggested Time: 60 minutes. Science TEKS: 5.1, 5.2, 5.3, 5.6, 5.5. Math TEKS: 5.5, 5.11, 5.13, 5.14, 5.15, 5.16</note>
+    <section id="id1165306626160">
+      <title>Objective</title>
+      <para id="id1165297208579">Students have now finished taking the last of their GLOBE measurements. In today’s lesson, students will compile and analyze their data. The goal of today’s lesson is for students to explore relationships between ozone and the other factors that they measured. Students will analyze the data from the six GLOBE measurements – ozone, cloud cover, humidity, air temperature, surface temperature, and wind direction. They will do this by using simple calculations and by creating charts, graphs, and pictures to represent their data. These calculations and graphs will allow students to see trends in their data. For example, students may find that temperature is positively correlated to the amount of low-level ozone present (as they discovered is true in Smog City 2 in Lesson 5). However, if the data shows no clear trends or atypical correlations (e.g., ozone highest on cool, cloudy days), students must not be discouraged. Instead, explain possible reasons for anomalous results: 1) five days may be too little data for students to find typical relationships between factors, and 2) factors that cannot be measured at one school (e.g., daily fluctuations in emissions; complex wind flow patterns) also affect the creation of low-level ozone. Students should understand that this is also part of experimental design, and that they would probably be able to come up with more accurate conclusions if they took the GLOBE measurements for a much a longer period of time.</para>
+      <para id="id1165306946194">After students have reached their conclusions, they will be able to compare them to their original hypotheses. Students will also be given a chance to compare and communicate their findings with other students. </para>
+      <para id="id1165308158955">
+        <emphasis>Students will most likely find the following correlations in their data. However, actual results may vary due to the small number of data points collected and factors beyond the scope of these measurements that affect ozone:</emphasis>
+      </para>
+      <para id="id1165302181408">
+        <figure id="id1165305105677">
+          <media id="id1165305105677_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-d2d3.png" id="id1165305105677__onlineimage" height="582" width="601"/>
+          </media>
+        </figure>
+      </para>
+    </section>
+    <section id="id3545278">
+      <title>Background Information</title>
+      <para id="id1165294456208">There is no new background information for this lesson.</para>
+    </section>
+    <section id="id1165300247686">
+      <title>Vocabulary</title>
+      <para id="id1165306416300">There is no new vocabulary for this lesson.</para>
+      <section id="id1165306093037">
+        <title/>
+        <para id="para-id1165306093037">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+    </section>
+    <section id="id1165297658404">
+      <title>Materials Needed (for a class of 25)</title>
+      <list id="id1165299701866" list-type="bulleted">
+        <item>GLOBE Measurement Data Sheets (1 per student)</item>
+        <item>Calculator (If needed)</item>
+        <item>Crayons</item>
+        <item>Markers</item>
+        <item>Pencils</item>
+        <item>Butcher Paper</item>
+        <item>Ruler</item>
+        <item>Construction Paper</item>
+        <item>Any other art supplies (If needed to make graphs, charts, tables, pictures)</item>
+      </list>
+    </section>
+    <section id="id1165296716076">
+      <title>Step-by-Step Suggested Lesson Plan</title>
+      <table id="id8766352" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis>Instructor Activity</emphasis>
+              </entry>
+              <entry>
+                <emphasis>Student Activity</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Tell students that today is the last lesson of the curriculum. Today students will be guided into analyzing their GLOBE data for trends. Tell students they will be able to use the knowledge they have learned in order to see the how the GLOBE measurements they have taken are related.</entry>
+              <entry>Students listen</entry>
+            </row>
+            <row>
+              <entry>Students will analyze their data. Guide students into calculations and graphing related to the data, following the instructions on the worksheets. You may choose to have some of the work, like the calculations of daily average temperature, to be done as a class.</entry>
+              <entry>Students analyze their measurement data to create graphs and answer journal questions: (p.3-6)</entry>
+            </row>
+            <row>
+              <entry>Have students share their graphs and conclusions with the class. Suggestion: Create a poster recapping the students’ final conclusions and what they have learned over the course of the lessons.</entry>
+              <entry>Students share graphs and findings</entry>
+            </row>
+            <row>
+              <entry>As a final discussion for students, ask students to tell each other about something that they learned about that they found interesting.</entry>
+              <entry>Students complete final reflection journal page: (p. 7)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="id1165299940613">
+        <title>Expected Outcomes</title>
+        <list id="id1165300961745" list-type="enumerated" number-style="arabic">
+          <item>Students will explore how cloud cover, air temperature, and humidity relate to ozone levels on a given day.</item>
+          <item>Students will build experience graphing data in charts.</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

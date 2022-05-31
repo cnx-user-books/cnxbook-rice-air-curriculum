@@ -1,0 +1,288 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Rice Air Curriculum - Lesson 5 (Teacher): Tropospheric Ozone and  Other Air Pollutants </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34373</md:content-id>
+  <md:title>Rice Air Curriculum - Lesson 5 (Teacher): Tropospheric Ozone and  Other Air Pollutants </md:title>
+  <md:abstract/>
+  <md:uuid>4bdb3eee-e60d-4842-adfb-65f878015e0a</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="Lesson 5 (Teacher).doc" strength="3">Lesson 5 (Teacher)</link>
+      <link url="Lesson 5 (Key).doc" strength="3">Answer Key to Lesson 5 Student Worksheets</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <note id="id1170957468166" type="Note">Suggested Time: 150 minutes. Science TEKS: 3.11, 4.6, 5.1, 5.2, 5.3, 5.4, 5.5. Math TEKS: 5.11, 5.14, 5.15 </note>
+    <section id="id1170954714702">
+      <title>Objective</title>
+      <note id="id1170962869082" type="Note">This lesson may take longer than previous lessons, due to 3 internet activities that allow student exploration as they learn about air pollution. It may be divided into two class periods as necessary.</note>
+      <para id="id1170964688383">During Lesson Four, students learned about the “dual” nature of ozone, and in particular stratospheric ozone. Today, students will learn about tropospheric or low-level ozone, which is a very harmful air pollutant. Students will learn about how it is created, and how it affects our health. Students will find ways to learn more about air pollution in their own communities, such as by checking the EPA’s Air Quality Index. These explorations will give students a much better understanding of low-level ozone, which they are measuring each day through the GLOBE protocols. Students will also learn about ways that they can help prevent the creation of ground-level ozone.</para>
+      <para id="id8557000">With this background knowledge, students will spend the second half of class discussing with other students and with the teacher what they have learned about air pollution, ozone, surface temperature, air temperature, humidity, clouds, and wind direction. Students will be asked to create hypotheses regarding what they think the relationships are between the GLOBE measurements they take every day. For example, do they think that on days that that the air temperature is warmer there will be more ozone measured in the air or vice-versa? Today, students will write down the trends they think they will see in their GLOBE measurement data. By the end of the curriculum, on Day Seven, they can use their data to either refute or support their initial conjectures. </para>
+    </section>
+    <section id="id1170961041970">
+      <title>Background Information</title>
+      <para id="id1170965966321">An <emphasis>air pollutant</emphasis> is any gas or particle in the air that causes harm to living things or the environment. Depending on the type of pollutant, the impacts can include respiratory ailments, cancer, birth defects, heart disease, and damage to the environment. Air pollution has these major effects even though it constitutes only a tiny fraction of air molecules. Most air pollutants have a concentration less than one molecule per million air molecules. </para>
+      <para id="id1170967745546">There are many types of <emphasis>air pollution</emphasis>. This lesson focuses on the example of <emphasis>tropospheric ozone</emphasis> (also called “low level ozone”) because it can be measured by students, it has been linked to serious respiratory health effects, and because many cities such as Houston exceed federal standards for tropospheric ozone and must find ways to reduce it.</para>
+      <para id="id1170957858790">Power plants, factories, vehicles, and other sources do not directly emit ozone into the air. Instead, tropospheric ozone (also called “low level ozone”) forms when emissions of other gases (specifically, nitrogen oxides (NOx) and hydrocarbons (also known as volatile organic compounds, VOCs)) react in the atmosphere in the presence of heat and sunlight. The actual chemical reactions are very complex, but you can think of it in a simplified form as:</para>
+      <para id="id2027560">
+        <emphasis>Nitrogen Oxides + Hydrocarbons + Heat + Sunlight = Tropospheric Ozone</emphasis>
+      </para>
+      <para id="id1170964828168">So to reduce the amount of ozone air pollution that forms in the troposphere, we must find ways to reduce emissions of nitrogen oxides and hydrocarbons from sources like vehicles and industries. </para>
+      <para id="id1170949281490">Tropospheric ozone has very different effects than stratospheric ozone. Ozone in the stratosphere protects Earth from the Sun’s ultraviolet rays (see Lesson Four). Even though only about 10% of Earth’s ozone is in the troposphere, it is here that humans and animals can breathe it in as a harmful air pollutant. Tropospheric ozone can have the following health effects, even at concentrations of just 75 parts per billion (i.e. 75 ozone molecules per 1 billion air molecules):</para>
+      <list id="id1170957563279" list-type="enumerated" number-style="arabic">
+        <item>Make people more sensitive to allergens</item>
+        <item>Aggravate asthma</item>
+        <item>Damage and inflame the lungs, making it harder to breathe</item>
+        <item>Irritate the respiratory system - coughing and irritation in the chest</item>
+      </list>
+      <para id="id1170965949124">Children and the elderly are especially sensitive to these health effects. Tropospheric ozone can also interfere with photosynthesis, stunting the growth of some types of plants.</para>
+      <para id="id1549957">
+        <figure id="id1170954434412">
+          <title>Normal lung tissue (left) and lung tissue exposed to high levels of ozone</title>
+          <media id="id1170954434412_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Picture 2.jpg" id="id1170954434412__onlineimage" height="258" width="285"/>
+          </media>
+          <caption>Credit: US EPA. More information about tropospheric ozone can be found in the US EPA booklet Good Up High, Bad Nearby (http://www.epa.gov/airnow/gooduphigh).</caption>
+        </figure>
+        <figure id="id5815426">
+          <title>Normal lung tissue (left) and lung tissue exposed to high levels of ozone</title>
+          <media id="id5815426_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Picture 1.jpg" id="id5815426__onlineimage" height="259" width="277"/>
+          </media>
+          <caption>Credit: US EPA. More information about tropospheric ozone can be found in the US EPA booklet Good Up High, Bad Nearby (http://www.epa.gov/airnow/gooduphigh).</caption>
+        </figure>
+      </para>
+      <para id="id7303803">The Houston region has long struggled to meet federal air quality standards for ground-level (tropospheric) ozone. Large amounts of emissions from vehicles and industries (including numerous petrochemical facilities) and hot weather contribute to Houston’s ozone pollution. Though cleaner cars and industries have greatly improved ozone levels in Houston, they continue to exceed federal limits. The U.S. EPA recently lowered the ozone limit from 85 parts per billion to 75 parts per billion, because scientists found that health impacts can occur even at these low levels. This lower limit will make it even more challenging for Houston to reduce emissions sufficiently to attain the ozone standard. </para>
+      <para id="id1170957100184">In addition to tropospheric ozone, there are many other types of <emphasis>air pollutants</emphasis> that can cause harm to living things or the environment. Some air pollutants are gases that are virtually invisible. Most occur in very small concentrations (typically less than 1 molecule per million air molecules), but they can still have major impacts on our health and the environment. In Lesson 6, we will see how some of these gases can warm the planet. </para>
+      <para id="id1170960935922">Other air pollutants are <emphasis>particles</emphasis>: microscopic liquids or solids like dust or soot suspended in the air. When the air looks “hazy” like in the picture below, it is mostly due to particles scattering and absorbing light. Scientists have learned that high levels of particles in the air can cause cardiovascular and respiratory disease. </para>
+      <figure id="id8453715">
+        <title>Houston on a hazy day (L); Houston on a clear Day (R)</title>
+        <media id="id8453715_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-09da.png" id="id8453715__onlineimage" height="225" width="436"/>
+        </media>
+        <caption>Credit: http://www.jpl.nasa.gov/news/features.cfm?feature=423</caption>
+      </figure>
+      <para id="id1170967765794">The sources of air pollutants are widely varied and include manmade and natural processes. For example, particles are emitted by <emphasis>manmade sources</emphasis> like diesel engines and smokestacks, and by <emphasis>natural sources</emphasis> such as volcanoes and windblown dust. Cows actually produce 80 million metric tons per year of <emphasis>methane</emphasis>, which can warm the planet and help form tropospheric ozone.</para>
+      <para id="id8972940">The <emphasis>Environmental Protection Agency</emphasis> posts <emphasis>Air Quality Index</emphasis> numbers to tell us how clean the air is in each part of the country each day. More information about this can be found at <emphasis>http://airnow.gov/index.cfm?action=aqibroch.index</emphasis>. In the Houston Chronicle, the weather page shows the ozone levels from the day before and a forecast of today’s ozone levels. Online, the Houston Chronicle has a “current air quality” map that you can click on. That takes you to an interactive map, where they can click on each monitor and see its meteorology and air pollution conditions. For the Westbury schools, the Bayland Park monitor (#13 in the bottom map) would be the closest to their campus. This map is available at http://weather.chron.com/US/TX/Houston.html.</para>
+      <para id="id1170962123922"/>
+      <figure id="id1653012">
+        <title>Air Quality Index</title>
+        <media id="id1653012_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-889e.png" id="id1653012__onlineimage" height="321" width="600"/>
+        </media>
+        <caption>Credit: http://airnow.gov/index.cfm?action=static.aqi#haz</caption>
+      </figure>
+      <para id="id7391038">The following AQI ranges correspond to certain ranges of ozone concentration in parts per billion (ppb). This can give students a sense of how their GLOBE ozone measurements (in ppb) relate to AQI levels, though technically the AQI is based on 8-hour averaged concentrations of ozone. </para>
+      <table id="id1170963891386" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis>Air Quality Index</emphasis>
+              </entry>
+              <entry>
+                <emphasis>Ozone Concentration (ppb)*</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>0-50</entry>
+              <entry>0-59</entry>
+            </row>
+            <row>
+              <entry>51-100</entry>
+              <entry>60-75</entry>
+            </row>
+            <row>
+              <entry>51-100</entry>
+              <entry>76-95</entry>
+            </row>
+            <row>
+              <entry>151-200</entry>
+              <entry>96-115</entry>
+            </row>
+            <row>
+              <entry>201-300</entry>
+              <entry>116-374</entry>
+            </row>
+            <row>
+              <entry>&gt;300</entry>
+              <entry>&gt;374</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <note id="id1170956044922" type="Note">*These numbers were calculated by using the EPA’s conversion calculator, which can be found at http://www.airnow.gov/index.cfm?action=aqi.aqi_conc_calc. </note>
+    </section>
+    <section id="id1170954454279">
+      <title>Additional Resources</title>
+      <para id="id7890068">The EPA provides reading material through Project A.I.R.E:</para>
+      <list id="id1170955676626" list-type="enumerated" number-style="arabic">
+        <item>Air pollution http://www.epa.gov/region01/students/pdfs/rd_airpol.pdf</item>
+        <item>Health effects http://www.epa.gov/region01/students/pdfs/rd_health.pdf</item>
+        <item>Weather and air quality http://www.epa.gov/region01/students/pdfs/weather.pdf</item>
+        <item>Ozone http://www.epa.gov/region01/students/pdfs/ozone.pdf</item>
+        <item>Automobiles and air pollution http://www.epa.gov/region01/students/pdfs/rd_auto.pdf</item>
+      </list>
+      <figure id="id1170961023627">
+        <media id="id1170961023627_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-ac1b.png" id="id1170961023627__onlineimage" height="336" width="499"/>
+        </media>
+        <caption>Loss of healthy green color, smaller size, and rough texture show the effects of ozone pollution on a leaf. Ozone interferes with the process of photosynthesis in plants. Credit: http://streaming.discoveryeducation.com/ </caption>
+      </figure>
+    </section>
+    <section id="id1170960941722">
+      <title>Materials (for a class of 25) </title>
+      <list id="id1170953955618" list-type="bulleted">
+        <item>Hygrometer (1 per class)</item>
+        <item>Infrared Thermometer (1 per class)</item>
+        <item>Ozone Test Strips (1 per class)</item>
+        <item>Ozone Scanner (1 per class)</item>
+        <item>Wind Vane (1 per class)</item>
+        <item>Thermal Glove (1 per class)</item>
+        <item>Cloud Charts (1 per class)</item>
+        <item>GLOBE Measurement Data Sheets (1 per student)</item>
+        <item>Access to computer (enough for two or three students to share a computer)</item>
+        <item>Access to UnitedLearning.com</item>
+        <item>Access to Brainpop.com</item>
+        <item>Projection Screen</item>
+      </list>
+    </section>
+    <section id="id1170957167378">
+      <title>Vocabulary</title>
+      <list id="id1170957930984" list-type="bulleted">
+        <item>Ozone</item>
+        <item>Ultraviolet radiation</item>
+        <item>Air pollution</item>
+        <item>Oxygen atoms</item>
+        <item>Tropospheric ozone</item>
+        <item>Stratospheric ozone</item>
+        <item>Environment</item>
+        <item>Surface temperature</item>
+        <item>Air temperature</item>
+        <item>Humidity</item>
+        <item>Clouds</item>
+        <item>Wind direction</item>
+        <item>Environmental Protection Agency</item>
+        <item>Air Quality Index</item>
+        <item>Air pollutants</item>
+        <item>Particles</item>
+        <item>Manmade sources</item>
+        <item>Natural Sources</item>
+        <item>Methane</item>
+      </list>
+      <para id="id1170958175546"> </para>
+      <figure id="id1170964946973">
+        <title>Step 6 in Lesson Plan</title>
+        <media id="id1170964946973_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-b0e7.png" id="id1170964946973__onlineimage" height="379" width="599"/>
+        </media>
+        <caption/>
+      </figure>
+      <figure id="id1170956276765">
+        <title>Step 7 in Lesson Plan</title>
+        <media id="id1170956276765_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-1ac8.png" id="id1170956276765__onlineimage" height="379" width="600"/>
+        </media>
+        <caption/>
+      </figure>
+      <figure id="id1170953985544">
+        <title>Step 8 in Lesson Plan </title>
+        <media id="id1170953985544_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-8c01.png" id="id1170953985544__onlineimage" height="378" width="600"/>
+        </media>
+        <caption>http://www.smogcity2.org/smogcity.cfm?preset=ozone</caption>
+      </figure>
+    </section>
+    <section id="id2518178">
+      <title>Explanation of Controls and Settings</title>
+      <para id="id1170949473046">Students will be able to change around the levels of the following factors:</para>
+      <para id="id1170954523368">The weather factors that students will be able to change around are the following: clouds/sky cover, wind, and temperature. The emission factors that students will be able to change are the following: the amount of energy sources, cars and trucks, off-road vehicles, consumer products, and industries. Students will also be able to change the population of their city.</para>
+      <para id="id1170949307286">
+        <figure id="id1170953629866">
+          <media id="id1170953629866_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5.png" id="id1170953629866__onlineimage" height="438" width="600"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1170961252983">
+        <figure id="id1170963644027">
+          <media id="id1170963644027_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics6.png" id="id1170963644027__onlineimage" height="483" width="556"/>
+          </media>
+        </figure>
+      </para>
+      <note id="id1170948222888" type="Note">An inversion is when air temperature increases with height. This inhibits pollutants from mixing vertically, which can cause very polluted conditions near the ground. </note>
+    </section>
+    <section id="id1170956541207">
+      <title>Step-by-Step Suggested Lesson Plan</title>
+      <table id="id1170961529167" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Instructor Activity</entry>
+              <entry>Student Activity</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Measurements. </emphasis>Take your students outside and conduct the GLOBE protocols. Students should set up the ozone strip, take the air and surface temperature, observe the sky for clouds, and measure humidity and wind direction.</entry>
+              <entry>Students take measurements and record their data.</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Review. </emphasis>Take one minute to review stratospheric, “good” ozone. Remind students that this ozone high in the atmosphere protects Earth from the Sun’s ultraviolet radiation.</entry>
+              <entry>Students listen.</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Brainstorm. </emphasis>Brainstorm with students about ways to classify air pollutants, to help students recognize the diverse nature of air pollution. Specifically: 1. Some are visible (particles that form haze), while others are invisible gases; 2. Their origin can be manmade (factories, cars), natural (wildfires, volcanoes), or in between (e.g., emitted by cattle raised by humans); 3. Some affect health, others affect climate. Ask students whether they know of health effects that can be caused by air pollution.</entry>
+              <entry>Students participate in discussion and answer questions on p. 1-2.</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Discussion. </emphasis>Explain that even though there are many air pollutants, we will focus on tropospheric or “bad” ozone because students can measure ozone and it causes serious impacts. Discuss how low-level ozone is formed from other pollutants reacting in sunlight, and its negative health effects. </entry>
+              <entry>Students listen</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Optional video. </emphasis>As a summary of the “dual” nature of ozone covered in Lesson Four and Lesson Five, you may show the class the <emphasis effect="bold">video</emphasis> clip entitled <emphasis effect="italics">Ozone: Harmful and Helpful, </emphasis>available at <emphasis effect="bold">http://player.discoveryeducation.com /index.cfm?guidAssetId=E320368D-9247-4FDC-9949-</emphasis><emphasis effect="bold">B7E8983E67E&amp;blnFromSearch=1 &amp;productcode=US</emphasis>. </entry>
+              <entry>Students watch video.</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Online Activity 1: Air Quality Index. </emphasis>This activity guides students to explore the meaning of EPA’s Air Quality Index in a fun and simple way. Teachers will act as a guide, answering questions but also letting students explore and learn on the computer on their own.</entry>
+              <entry>Students complete online activity, following instructions and answering questions on journal p. 3.</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Online Activity 2: Ozone Scavenger Hunt. </emphasis>This activity leads students on an “Ozone scavenger hunt” to explore recent, current and forecast air quality conditions across the country and in their home town. The activity uses EPA’s AirNow website, <emphasis effect="bold">http://www.airnow.gov/</emphasis>. The Journal worksheets guide students through the scavenger hunt.</entry>
+              <entry>Students complete online activity, following instructions and answering questions on journal p. 4-5</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">On-line Activity 3: </emphasis><emphasis effect="bold">Smog City 2 simulation. </emphasis>Students will be able to try out a simulation about tropospheric ozone levels on EPA’s website for kids. This simulation allows students to change the levels of various factors in order to see how it affects the Air Quality Index and the amount of ozone during an entire day. Use the chart given to make sure that students understand each level of each factor – for example, that Level 1 of Sky Cover means “sunny”, and that Level 3 means “cloudy.” The lesson will help students think about hypotheses of measurement correlations (next step).</entry>
+              <entry>Students complete online activity, following instructions and answering questions on journal p. 6-7.</entry>
+            </row>
+            <row>
+              <entry><emphasis effect="bold">Hypotheses based on measurements. </emphasis>Now that students understand how tropospheric ozone forms, they will create hypotheses regarding expected relationships between the daily GLOBE measurements. For example, do they think that on days that that the air temperature is higher there will be more ozone measured in the air? Let students make these hypotheses on their own in their journals – they have learned enough to make some educated guesses. Students will write down the trends they think they will see in their GLOBE measurement data. On Day Seven, they will use their final data to either refute or support their initial hypotheses.</entry>
+              <entry>Students think about relationships between ozone and meteorology based on what they’ve learned in class and in Smog City 2 simulation, and fill out chart with their hypotheses (p. 8).</entry>
+            </row>
+            <row>
+              <entry>Take your class outside, and scan the ozone strip. Also, retake the surface and air temperature, and the humidity so that students can take the average of these measurements in order to supplement their ozone measurements.</entry>
+              <entry>Students take measurements and record data on their data sheets.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="id1170957868022">
+        <title>Expected Outcomes</title>
+        <list id="id1170952337664" list-type="enumerated" number-style="arabic">
+          <item>Students will begin to appreciate the diverse nature of air pollution and brainstorm ways to classify different types of air pollutants.</item>
+          <item>Students will be able to define tropospheric ozone, and will understand how this is ozone is created and how it effects our health.</item>
+          <item>Students will know how to read the EPA’s Air Quality Index. Using this knowledge, they will be able to read local and national ozone maps, and will also know the relation between AQI index values and ozone concentration in units of parts per billion (ppb).</item>
+          <item>Students will create hypotheses regarding what they think the relationships are between the GLOBE measurements they take every day.</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

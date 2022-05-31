@@ -1,0 +1,32 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11200</md:content-id>
+    <md:title>Rice Air Curriculum</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>afc24e35-89f8-4d05-b386-222534fc5134</md:uuid>
+<md:slug>rice-air-curriculum</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m34366"/>
+    <col:module document="m34365"/>
+    <col:module document="m34383"/>
+    <col:module document="m34384"/>
+    <col:module document="m34381"/>
+    <col:module document="m34382"/>
+    <col:module document="m34380"/>
+    <col:module document="m34377"/>
+    <col:module document="m34378"/>
+    <col:module document="m34374"/>
+    <col:module document="m34372"/>
+    <col:module document="m34375"/>
+    <col:module document="m34371"/>
+    <col:module document="m34379"/>
+    <col:module document="m34367"/>
+    <col:module document="m34373"/>
+    <col:module document="m34376"/>
+    <col:module document="m34369"/>
+    <col:module document="m34368"/>
+    <col:module document="m34370"/>
+  </col:content>
+</col:collection>

@@ -1,0 +1,168 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Rice Air Curriculum - Lesson 2 (Teacher): Physical Properties of the Atmposphere</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34374</md:content-id>
+  <md:title>Rice Air Curriculum - Lesson 2 (Teacher): Physical Properties of the Atmposphere</md:title>
+  <md:abstract/>
+  <md:uuid>10cfae2c-9406-4715-a2e5-f53c0f4f1bc6</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="Lesson 2 (Teacher).doc" strength="3">Lesson 2 (Teacher)</link>
+      <link url="Lesson 2 (Key).doc" strength="3">Answer Key to Lesson 2 Student Worksheets</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <note id="id1163712659198" type="Note">Suggested Time: 65 minutes. Science TEKS: 3.11, 4.6, 5.3, 5.1, 5.2, 5.4, 5.5, 5.6 .Math TEKS: 5.11, 5.14, 5.15. </note>
+    <section id="id1163714944096">
+      <title>Objective</title>
+      <para id="id1163710525798">Students will begin to take the following measurements outside—the amount of ozone in the air, surface temperature and air temperature, types of clouds in the air, humidity, and wind direction. These measurements will continue for five class periods. At this point in time, students do not have enough knowledge to analyze the results they get. Creating hypotheses, drawing conclusions, and communicating their findings about the trends in data will occur later in the course. However, you can involve the students in experimental design by helping to select exactly where to take the measurements.</para>
+      <para id="id6590879">Students will spend a lot of this lesson getting familiar to the tools they will be using to take measurements at the beginning and end of the class. Teachers should refrain from explaining too much about how the instruments work, unless necessary, so as to allow students the freedom to explore on their own how to make the measurements Students will be introduced to the layers of the atmosphere and will learn about two of the tangible properties of the atmosphere that they will be measuring with their GLOBE instruments: temperature and winds.</para>
+    </section>
+    <section id="id1163708488817">
+      <title>Background Information</title>
+      <para id="id1163722928954">The Earth’s atmosphere is divided into five layers. The first layer, closest to earth’s surface, is the <emphasis>troposphere</emphasis>. This is where all of our weather occurs—clouds, wind, lightning, hurricanes, rain, snow, and tornadoes. Because air density is greatest near the surface and diminishes with height, the troposphere contains about 80% of the atmosphere’s mass. All of the air we breathe is in the troposphere, so it is here that air pollution is of greatest concern. Temperature is typically warmest near the ground and cools with height in the troposphere, which helps drive the weather and the mixing of pollutants.</para>
+      <para id="id1163707049121">The next layer is the <emphasis>stratosphere</emphasis>. This is where ultraviolet radiation from the sun reacts with oxygen to form ozone gas and the ozone layer. The oxygen and the ozone layer protect us from the cancer-causing ultraviolet radiation. This absorption of radiation causes temperatures to increase with height in the stratosphere, in contrast to cooling with height in the troposphere. This temperature pattern causes the stratosphere to be very stable; in other words, air rises and sinks very slowly in this layer.</para>
+      <para id="id1163709447442">The next layer is the <emphasis>mesosphere</emphasis>, which stops meteors and other fragments of things that come from space. The next layer is the thermosphere, where space shuttles orbit the earth. Finally, the last layer is the exosphere, which is the outermost portion of our atmosphere and is the layer in which satellites orbit the Earth. Outside of this layer lies space.</para>
+      <para id="id1163718925160"/>
+      <figure id="id1163709301594">
+        <title>Layers of the Atmosphere</title>
+        <media id="id1163709301594_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-5fa3.png" id="id1163709301594__onlineimage" height="277" width="257"/>
+        </media>
+        <caption>
+          <link url="http://earthscience.files.wordpress.com/2007/04/atmosphere.gif">http://earthscience.files.wordpress.com/2007/04/atmosphere.gif</link>
+        </caption>
+      </figure>
+      <para id="id1163714828313">The two most obvious ways that we experience the atmosphere are through its temperature and its winds. <emphasis>Temperature</emphasis> is a physical property that measures how “hot” or “cold” something is. Microscopically, it is a measure of the average kinetic energy or speed of the molecules that make up the system. Temperature can be measured in Kelvin, Celsius, and Fahrenheit. </para>
+      <para id="id1163710758493">The GLOBE instruments will allow students to measure both the <emphasis>surface temperature</emphasis> (the temperature of Earth’s surface or other objects) and the <emphasis>air temperature</emphasis> (the temperature of the air). Air and surface temperature measurements are not always equal at a given location. That’s because surfaces tend to change temperature more quickly than the air, warming more quickly during the day and cooling more quickly at night. Some surfaces warm more quickly than others due to their color and composition, and this can affect the temperature of the air above them. You may want to have students experiment with measuring the temperatures of different surfaces outside.</para>
+      <para id="id1163714879104">An <emphasis>urban heat island</emphasis> occurs when a metropolitan area is significantly warmer than surrounding rural areas. This happens because surfaces like asphalt and concrete warm up quickly and conduct their heat to the air; by contrast, much of the energy absorbed by vegetation dissipates by evapotranspiration (the sum of evaporation and plant transpiration from the Earth’s surface to the atmosphere). Waste heat from our use of energy adds to the heat island. </para>
+      <figure id="id1163716633799">
+        <title>A typical urban heat island temperature profile</title>
+        <media id="id1163716633799_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-1d71.png" id="id1163716633799__onlineimage" height="318" width="592"/>
+        </media>
+        <caption>Credit: http://commons.wikimedia.org/wiki/File:Urban_heat_island.svg</caption>
+      </figure>
+      <para id="id1163711184124">Differences in temperature due to the Sun’s uneven heating of the Earth are the driving force behind <emphasis>wind</emphasis>, or moving air. A classic example of how temperature differences cause the wind to blow is the sea breeze. On summer days near the coast, the land warms faster than the sea. This creates a wind circulation pattern in which near the ground wind blows from sea to land. At night, a “land breeze” may blow in the opposite direction as the land cools more quickly than the sea. </para>
+      <para id="id1163709047940">A sea breeze circulation on a summer day</para>
+      <para id="id1163708958504">
+        <figure id="id1163713444187">
+          <media id="id1163713444187_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 7.png" id="id1163713444187__onlineimage" height="285" width="556"/>
+          </media>
+          <caption>Credit:http://www.prh.noaa.gov/hnl/kids/activities.php</caption>
+        </figure>
+      </para>
+      <para id="id1163710278617">Students will use the wind vane to discover from what direction the wind is blowing. Though students will not directly measure wind speed, they can get a sense of it by feeling the wind blow and checking wind speed in weather reports.</para>
+    </section>
+    <section id="id1163712997837">
+      <title>Regarding GLOBE Measurements</title>
+      <para id="id1163709404649">Teachers should have already been trained in the following GLOBE protocols: Surface Ozone, Cloud, Humidity, Surface and Air Temperature, Wind Direction. An Instruction Manual has been included so that you may review how to set up and use each measuring tool. It also may be helpful to review the protocols (available at www.globe.gov) as you prepare for this lesson. Each day, beginning with today (Day Two) students will take all six measurements at the beginning and end of their class periods. Remember that there must be one hour between the measurements. For a teacher whose class periods are less than an hour, students from different classes can take the measurements.</para>
+      <para id="id1163709471961">Data sheets for students to record all of their results in an organized way are included in this handbook. It is recommended that the teacher split their classes into six groups or teams, and that each group takes turns using a different instrument. This way, all measurements can be taken at the same time. Small groups allow students to be more hands-on with the measuring tool. </para>
+      <para id="id1163712771481">It is important to choose a good spot for the class to take the measurements. All measurements should be taken in a consistent location. If your class is interested in comparing measurements in different parts of the school, the curriculum can be adapted for teams to split up and test different parts of the school, or for different classes to compare data. Doing so can enable students to develop and test hypotheses regarding how air pollution and weather conditions vary by location and time of day. This does however require more time and organization on the part of the teacher.</para>
+    </section>
+    <section id="id1163709225429">
+      <title>Vocabulary </title>
+      <para id="id1163710457214">• Atmosphere</para>
+      <para id="id1163708996243">• Troposphere</para>
+      <para id="id1163709698404">• Stratosphere</para>
+      <para id="id1163705428618">• Mesosphere</para>
+      <para id="id1163718708001">• Thermosphere</para>
+      <para id="id1163709099989">• Exosphere</para>
+      <para id="id1163710219883">• Ultraviolet Radiation</para>
+      <para id="id1163708896209">• Surface Temperature</para>
+      <para id="id1163711846851">• Air Temperature</para>
+      <para id="id1163728790990">• Fahrenheit</para>
+      <para id="id1163709509403">• Celsius</para>
+      <para id="id1163709111027">• Urban Heat Island</para>
+      <para id="id1163709287237">• Wind</para>
+      <para id="id1163706513446">• Sea Breeze</para>
+    </section>
+    <section id="id8302696">
+      <title>Outside Resources</title>
+      <para id="id1163708223847">• GLOBE measurement protocols: www.globe.gov</para>
+      <para id="id1163706587681">• More information about urban heat islands can be found online in The Encyclopedia of Earth (http://www.eoearth.org/article/Heat_island).</para>
+      <para id="id1163709282332">• A thermal image of Houston from a NASA sensor, showing warmer and cooler parts of the city: www.harc.edu/Projects/CoolHouston/HeatIsland/</para>
+    </section>
+    <section id="id1163716818715">
+      <title>Materials (for a class of 25)</title>
+      <para id="id1163710392729">• Computer/projection screen</para>
+      <para id="id5398576">• Access to Brainpop.com</para>
+      <para id="id1163712615204">• Hygrometer (1 per class)</para>
+      <para id="id1163709379968">•  Infrared Thermometer (1 per class)</para>
+      <para id="id5479122">•  Ozone Test Strips (1 per class)</para>
+      <para id="id1163709438046">•  Ozone Scanner (1 per class)</para>
+      <para id="id1163714603614">•  Wind Vane (1 per class)</para>
+      <para id="id1163716853403">•  Thermal Glove (1 per class)</para>
+      <para id="id1163709601554">• GLOBE Measurement Data Sheets (1 per student)</para>
+    </section>
+    <section id="id1163714660099">
+      <title>Step-by-Step Suggested Lesson Plan</title>
+      <table id="id1163709132916" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis>Instructor Activity</emphasis>
+              </entry>
+              <entry>
+                <emphasis>Student Activity</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry><emphasis>Measurements.</emphasis> Take your students outside and conduct the GLOBE protocols listed above. Students should set up the ozone strip, take the air and surface temperatures, observe the sky for clouds, and measure humidity and wind direction. This first time, take the measurements one at a time to make sure that the students are using the tools correctly and are getting accurate results.</entry>
+              <entry>Students help choose where measurements will be taken, especially for the multiple surfaces that will be measured for surface temperature. They take measurements and record their results on their data sheets.</entry>
+            </row>
+            <row>
+              <entry><emphasis>Discussion.</emphasis> Discuss what is found in each of the five layers of the atmosphere – example: where the weather, ozone layer, and space shuttles can be found. </entry>
+              <entry>Students listen, ask questions, and fill out picture (p.2)</entry>
+            </row>
+            <row>
+              <entry><emphasis>Discussion.</emphasis> Discuss the meaning of temperature, and how urban heat islands show that cities can affect their own temperature. Make sure that students can distinguish between surface and air temperature.</entry>
+              <entry>Students answer questions in journals: (top of p.3)</entry>
+            </row>
+            <row>
+              <entry><emphasis>Optional Video.</emphasis> Brainpop.com: “Temperature.” Complete online quiz as a class.</entry>
+              <entry>Students watch video and participate in quiz (Note: quizzes are online, not in worksheets).</entry>
+            </row>
+            <row>
+              <entry><emphasis>Discussion about wind.</emphasis> What have their experiences been with wind? Explain the sea breeze as an example of how differences in temperature drive the winds.</entry>
+              <entry>Students answer questions in journals (bottom p.3).</entry>
+            </row>
+            <row>
+              <entry><emphasis>Optional Video.</emphasis> Brainpop.com: “Wind.” Complete online quiz as a class.</entry>
+              <entry>Students watch video and participate in online quiz.</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis>Student work time.</emphasis>
+              </entry>
+              <entry>Complete worksheets (p.4).</entry>
+            </row>
+            <row>
+              <entry><emphasis>Measurements.</emphasis> Take your class outside, and scan the ozone strip. Also, have students retake the surface and air temperature and humidity measurements so that they can be averaged with those from the beginning of the class.</entry>
+              <entry>Students take measurements and write down their results on their data sheets.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="id1163711205129">
+        <title>Expected Outcomes</title>
+        <list id="id1163713569858" list-type="enumerated" number-style="arabic">
+          <item>Students measure ozone and meteorology conditions for the first time.</item>
+          <item>Students label the five layers of the atmosphere and know what can be found in each layer of the atmosphere. </item>
+          <item>Students can draw and describe an urban heat island.</item>
+          <item>Students can draw and label the components of a sea breeze circulation.</item>
+          <item>Students should complete Lesson Two Journal Activities.</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

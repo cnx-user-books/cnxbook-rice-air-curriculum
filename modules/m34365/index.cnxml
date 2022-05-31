@@ -1,0 +1,165 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Rice Air Curriculum - GLOBE Overview Instruction Manual</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34365</md:content-id>
+  <md:title>Rice Air Curriculum - GLOBE Overview Instruction Manual</md:title>
+  <md:abstract/>
+  <md:uuid>0160ca79-ec54-4116-a46c-9ca2860c8809</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="GLOBE surface temperature.pdf" strength="3">GLOBE Surface temperature</link>
+      <link url="GLOBE air temperature.pdf" strength="3">GLOBE Air temperature</link>
+      <link url="GLOBE clouds.pdf" strength="3">GLOBE Clouds</link>
+      <link url="GLOBE relative humidity.pdf" strength="3">GLOBE Relative humidity</link>
+      <link url="GLOBE surface ozone.pdf" strength="3">GLOBE Surface Ozone</link>
+      <link url="Data Sheet.pdf" strength="3">Data Sheet</link>
+      <link url="Data Sheet Cloud guide.doc" strength="3">Data Sheet Cloud Guide</link>
+      <link url="GLOBE_equipment_training_powerpoint.pdf" strength="3">GLOBE Equipment Training - Powerpoint Presentation</link>
+      <link url="GLOBE_Instruments_Purchase_Guide.pdf" strength="3">GLOBE Instruments Purchase Guide</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1164763147682">
+      <title>Overview:</title>
+      <para id="id1164754390808">The Rice Air Curriculum involves students in air pollution and meteorology measurements using protocols developed by the GLOBE Program (Global Learning and Observations to Benefit the Environment). The GLOBE protocols used are—cloud cover, humidity, surface and air temperature, wind direction, and surface ozone. The notes below are summarized from the full GLOBE protocols available online at www.globe.gov.</para>
+    </section>
+    <section id="id1284375">
+      <title>Setting Up a Measurement Station:</title>
+      <para id="id1164764703595">It is very important that a measurement station is set up. The station should be set up in an open area (at least 30 feet from the nearest building). Set up a bench or table that is about 1 meter off the ground where the measurement tools can be placed. The instruments placed on the table should not be exposed to direct sunlight.</para>
+      <para id="id7681452">
+        <emphasis>Wind Vane:</emphasis>
+      </para>
+      <list id="id1164750005706" list-type="enumerated" number-style="arabic">
+        <item>Assemble the wind vane by placing the pointer on the vane.</item>
+        <item>Place the wind vane on the table or bench. (If it is possible, set up the wind vane in an even higher place to get a more accurate measurement of the true wind direction.)</item>
+        <item>Use a compass the find magnetic North and align the base of the wind vane to match true North.</item>
+        <item>Students can now read the direction of the wind. (Since the end of the pointer with the larger area is blown away from the wind direction, the pointer will point towards the direction of wind i.e. if the sharp end points toward the wind, the wind is coming from the north).</item>
+      </list>
+      <figure id="id8851202">
+        <media id="id8851202_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 8-df3d.png" id="id8851202__onlineimage" height="203" width="222"/>
+        </media>
+      </figure>
+      <para id="id1164755607026"/>
+      <para id="id1164766414871">
+        <emphasis>Cloud Charts:</emphasis>
+      </para>
+      <para id="id1164753767069">The cloud chart kit includes several activities that you may do with your students in order to familiarize them with different types of clouds. Please pick one activity to do with them before they start taking measurements in Lesson 2.</para>
+      <para id="id1164756822738">Please hang up the cloud chart in the classroom so that students may look at it for reference when they write down what types of clouds they see in the sky during each measurement that they take.</para>
+      <figure id="id1164772802864">
+        <media id="id1164772802864_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 9.png" id="id1164772802864__onlineimage" height="227" width="291"/>
+        </media>
+      </figure>
+      <example id="oo-id1164753938003">
+        <para id="id1164767205849">Digital Hygrometer/Thermometer:</para>
+      </example>
+      <list id="id5362597" list-type="enumerated" number-style="arabic">
+        <item>Place the instrument on the table when students go outside to set up the ozone strip.</item>
+        <item>Record the current temperature and the relative humidity.</item>
+        <item>When students go back outside to scan the ozone strip, record the current temperature and the relative humidity.</item>
+        <item>Return the instrument to the classroom and store in a dry place.</item>
+      </list>
+      <note id="id1164766334253" type="Note">This instrument can be damaged by condensation. So, if it is wet outside, record 100% relative humidity as an approximation and do not use the instrument that day.</note>
+      <figure id="id4648202">
+        <media id="id4648202_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 10.png" id="id4648202__onlineimage" height="191" width="177"/>
+        </media>
+      </figure>
+      <para id="id1164765121097">
+        <emphasis>Infrared Thermometer (IRT):</emphasis>
+      </para>
+      <list id="id1164766435548" list-type="enumerated" number-style="arabic">
+        <item>Wrap the IRT in the thermal glove provided or place it outside 30 minutes before taking measurements (so it can adjust to the outside temperature). [Note: The thermal glove is an oven mitt, cut to provide an opening for the front of the thermometer]</item>
+        <item>Point the IRT at the surface students want to measure the temperature of and pull the trigger. The temperature will pop up on the display – record this value. </item>
+        <item>Have students choose three places they would like to take the surface temperature of and record these temperatures. Some recommendations are a grassy area or a concrete area. Students may hypothesize about what surfaces have lower or higher temperatures compared to each other, and how this might relate the amount of surface ozone measured. Students will use this data along with other measurements during Lesson 7.</item>
+        <item>Students must take these three temperature measurements both when the ozone strip is exposed and when it is read.</item>
+      </list>
+      <figure id="id1164757337594">
+        <media id="id1164757337594_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 11.png" id="id1164757337594__onlineimage" height="177" width="146"/>
+        </media>
+      </figure>
+      <para id="id1164757375710">
+        <emphasis>Zikua Ozone Scanner and Ozone Strips:</emphasis>
+      </para>
+      <para id="id1164763635196">The ozone strips (Eco-Badge Test Cards) are chemically sensitive strips that change color in the presence of ozone. </para>
+      <figure id="id1164777071074">
+        <media id="id1164777071074_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 12.png" id="id1164777071074__onlineimage" height="221" width="181"/>
+        </media>
+      </figure>
+      <para id="id7316577">The Zikua Ozone Scanner is an optical reader designed to measure the concentration level of surface ozone after an ozone strip has been exposed for one hour. The ozone scanner consists of </para>
+      <list id="id1164774550918" list-type="bulleted">
+        <item>an LCD display on the face of the unit</item>
+        <item>a sliding on/off switch, top right on the unit face</item>
+        <item>two command buttons on the top of the unit: the left button is used for scrolling, the right for selecting values</item>
+        <item>a slot on the left side of the unit which accepts your Eco Badge Test Card</item>
+        <item>a screen brightness adjustment screw located on the back of the unit to adjust the LCD display screen</item>
+      </list>
+      <figure id="id1164752386222">
+        <media id="id1164752386222_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-dde7.png" id="id1164752386222__onlineimage" height="225" width="378"/>
+        </media>
+      </figure>
+      <para id="id7016135">Before use, duration and measurement settings must be chosen:</para>
+      <list id="id1164766259145" list-type="enumerated" number-style="arabic">
+        <item>Press the left button until the LCD shows the Settings command:</item>
+      </list>
+      <figure id="id1164760278574">
+        <media id="id1164760278574_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-f4e6.png" id="id1164760278574__onlineimage" height="119" width="475"/>
+        </media>
+      </figure>
+      <list id="id1164771531270" list-type="enumerated" number-style="arabic">
+        <item>Press the right button to specify the Settings command. Press the right button repeatedly to scroll through duration options. You want to choose 1 HOUR. </item>
+      </list>
+      <figure id="id1164771369682">
+        <media id="id1164771369682_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3.png" id="id1164771369682__onlineimage" height="108" width="475"/>
+        </media>
+      </figure>
+      <list id="id1164776056976" list-type="enumerated" number-style="arabic">
+        <item>When the test duration you want to use is displayed, press the left button. Press the right button repeatedly to scroll through measurement options. Select PPB (Parts per billion). </item>
+      </list>
+      <figure id="id1164767740119">
+        <media id="id1164767740119_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-9877.png" id="id1164767740119__onlineimage" height="109" width="475"/>
+        </media>
+      </figure>
+      <para id="id1164768917736">The Zikua then must be calibrated:</para>
+      <list id="id1164766471827" list-type="enumerated" number-style="arabic">
+        <item>Calibrating the Zikua uses an unexposed Test Card for a reading to establish a baseline standard for reading exposed Test Cards. This is important and should be performed each time you begin a new series of Zikua readings and then every fifteen to twenty tests. </item>
+        <item>Select the calibration command. From the Settings display, scroll through the command options (by pressing the left button repeatedly) until the following display appears:</item>
+      </list>
+      <figure id="id1164772862845">
+        <media id="id1164772862845_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-b2fc.png" id="id1164772862845__onlineimage" height="112" width="502"/>
+        </media>
+      </figure>
+      <list id="id1164756970301" list-type="enumerated" number-style="arabic">
+        <item>Press the right button. The LCD shows: </item>
+      </list>
+      <figure id="id1164761222534">
+        <media id="id1164761222534_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6.png" id="id1164761222534__onlineimage" height="105" width="512"/>
+        </media>
+      </figure>
+      <list id="id8483558" list-type="enumerated" number-style="arabic">
+        <item>Insert an unexposed one hour Test Card, printed side up, into Zikua’s Test Card slot. A number appears in the lower right side of the LCD.</item>
+        <item>Press the left and right buttons at the same time to save your calibration. Remove the unexposed Test Card from the slot. The number 171 (a range of 168 to 174 is acceptable) will now appear in the lower right hand corner of the display. </item>
+      </list>
+      <para id="id1164762226740">Now, the Zikua and the Eco-Badge Test Cards are ready to be used:</para>
+      <para id="id1164769738614">Please read Teacher Support available on pages 3-4 of the GLOBE Surface Ozone Protocol http://www.globe.gov/tctg/ozone.pdf?sectionId=15&amp;rg=n&amp;lang=EN. This discusses the logistics of placing the test card in the measurement station and then reading it, and also the general care and use of the Zikua Ozone Scanner.</para>
+      <para id="id1164755565498">Once the Test Card has been exposed for one hour, the Zikua can be used to read it:</para>
+      <para id="id1164769913055">Insert the exposed Test Card with the printed side facing up into the Test Card slot. </para>
+      <para id="id1164757246639">Zikua reads the card and displays its reading in the lower right of the LCD. </para>
+      <para id="id1164769017507">It is important to read the handheld scanner in a shaded area with the scanner placed on a level, stable surface. The scanner should be outside for at least five minutes before it is used so that it can adjust to outside conditions. </para>
+    </section>
+  </content>
+</document>

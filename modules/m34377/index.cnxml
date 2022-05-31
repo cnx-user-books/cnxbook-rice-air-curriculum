@@ -1,0 +1,165 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Rice Air Curriculum - Lesson 1 (Teacher): Introduction to the Atmosphere</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34377</md:content-id>
+  <md:title>Rice Air Curriculum - Lesson 1 (Teacher): Introduction to the Atmosphere</md:title>
+  <md:abstract/>
+  <md:uuid>910c27d1-bd51-4237-a50c-973a07f355a4</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="Lesson 1 (Teacher).doc" strength="3">Lesson 1 (Teacher)</link>
+      <link url="Lesson 1 (Key).doc" strength="3">Answer Key to Lesson 1 Student Worksheets</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <note id="eip-326">Suggested Time: 60 minutes.        Science TEKS: 3.11, 5.3, 5.4, 5.5.          Math TEKS: 5.11, 5.14, 5.15. 
+</note><section id="id1167941307849">
+        <title>Objective</title>
+        <para id="id1167984160529">The atmosphere, air pollution, and meteorology may be fairly new topics for the students, so the first day’s discussions and brief demonstrations provide an opportunity to gauge their incoming knowledge. This will help teachers identify any common misconceptions to address by the end of the curriculum. </para>
+        <para id="id3074207">A demonstration with ice water and associated discussion will help students review three states of matter—solid, liquid, and gas—and examples of how the transfer of heat energy can cause transitions between these states. Students should then begin to think of the atmosphere around them as a mixture of gases. How do we know that air actually exists—that what surrounds us is not just empty space? Inflating a balloon and discussing how they perceive the air with their senses will help students explore this question. Teachers will also introduce the various measuring tools to the class, explain how they work, and organize students into teams for the measurements. </para>
+        <para id="id1167941221171">Students should leave with a sense of wonder about the atmosphere around them and motivated to learn more about its importance. Interesting facts in the “Background Information” section can help the teacher achieve this goal. </para>
+      </section>
+      <section id="id1167941192172">
+        <title>Background Information</title>
+        <para id="id2072358"><term>Matter</term> is anything that takes up space, and is what makes up everything that we see. Solids, liquids and gases are three states of matter. A <term>solid</term> has both a fixed volume and fixed shape. A <term>liquid</term><emphasis effect="bold"/>takes the shape of whatever container that it is in, but has a fixed volume. <term>Gases</term>, however, do not have a fixed volume—they spread out to take up space, like in a balloon. </para>
+        <para id="id1167947848892">Students should recognize examples of transitions between states of matter and the role of heat energy in causing them. Adding heat energy can convert a solid to a liquid, or a liquid to a gas. Removing heat energy can turn a gas to a liquid, or a liquid to a solid. The condensation in the ice water demonstration provides a visual example, as the cold glass condenses water vapor (gas) from the air to form liquid water on the outside of the glass.</para>
+        <para id="id1167939791163">Air is a fascinating gas. Every breath we take (~1 liter) has 10<sup>22</sup><term>molecules</term> of <term>air</term>! That is about as many stars as exist in the universe. Interestingly, if you could make a box with sides the width of a human hair, it could still have trillions of air molecules inside. However, these air molecules are so small that air appears “invisible” to the naked eye. Air molecules do scatter light, especially at blue wavelengths, which gives the sky its color. Particles suspended in the air can both scatter and absorb light, creating a hazy appearance when the air is polluted (Figure 1).</para>
+        <figure id="id1167967356126">
+          <media id="id1167967356126_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 4-f8f6.png" id="id1167967356126__onlineimage" height="171" width="328"/>
+          </media>
+          <caption>Figure 1. Houston on a hazy day (L) and on a clear day (R)</caption>
+        </figure>
+        <para id="id1167976310419">Credit: http://www.jpl.nasa.gov/news/features.cfm?feature=423</para>
+        <para id="id1167961945268">The air around the Earth is called the <term>atmosphere</term>. Viewed from space (Figure 2), we see that the atmosphere is very thin compared to the Earth overall. However, the atmosphere is vitally important to life on Earth. It contains the air that animals breathe and that plants use for photosynthesis; absorbs UV radiation; regulates the planet’s temperature; blocks meteors from crashing onto our surface; and is where weather occurs. </para>
+        <para id="id1167973104322">The mass of the atmosphere (about 1.1×10<sup>19</sup> pounds, or 5.1×10<sup>18</sup> kilograms) can best be understood by considering <term>atmospheric pressure</term>, which is the pressure exerted by the weight of the atmosphere above a given point. Atmospheric pressure averages 14.7 psi (pounds per square inch) at sea level. This means that if you drew a square one inch wide and one inch long on the Earth’s surface, the column of air rising above that square into space would weigh 14.7 pounds! The higher you travel in the atmosphere, the lower the density of air, but there is no definite boundary where the atmosphere ends and outer space begins.</para>
+        <para id="id1167966073326">
+          <figure id="id1167960063210">
+            <media id="id1167960063210_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-0d94.png" id="id1167960063210__onlineimage" height="496" width="545"/>
+            </media>
+            <caption>Fig. 2. From space, the atmosphere appears as a thin blue line between Earth and outer space.</caption>
+          </figure>
+        </para>
+        <para id="id1167977708870">Credit: http://www.adventures.com.sg/</para>
+      </section>
+      <section id="id1167941251237">
+        <title>Materials (for a class of 25)</title>
+        <list id="eip-216"><item>Water glass (1 per class)</item>
+        <item>Water (Enough to fill the glass)</item>
+        <item>Ice</item>
+        <item>1 Hot plate (if possible)</item>
+        <item>Access to Brainpop.com</item>
+        <item>Computer</item>
+        <item>Balloons (1 per student)</item>
+      </list>
+      </section>
+    
+      <section id="id1167947853038">
+        <title>GLOBE instruments (described in GLOBE measurement protocols at www. globe.gov):</title>
+        <list id="eip-100"><item>Ozone strips (1 per class)</item>
+        <item>Ozone Scanner (1 per class)</item>
+        <item>Hygrometer (1 per class)</item>
+        <item>Infrared Thermometer (1 per class)</item>
+        <item>Cloud Charts (1 per class)</item>
+        <item>Wind Vane (1 per class)</item>
+        <item>Thermal Glove (1 per class)</item>
+      </list>
+      </section>
+    
+      <section id="id1167974114527">
+        <title>Vocabulary</title>
+        <list id="eip-220"><item>Matter</item>
+        <item>Solid</item>
+        <item>Liquid </item>
+        <item>Gas</item>
+        <item>Air</item>
+        <item>Temperature</item>
+        <item>Heat Energy</item>
+        <item>Thermometer</item>
+        <item>Atmosphere</item>
+        <item>Molecules</item>
+        <item>Atmospheric Pressure</item>
+      </list>
+      </section>
+    
+      <section id="id1167975360308">
+        <title>Demonstration: The Three States of Water (Step 2 of Lesson Plan)</title>
+        <para id="id1167967571370">This demonstration is geared toward introducing students to three states of matter, and how transfers of heat energy can change the state of matter.</para>
+        <list id="id1870194" list-type="enumerated" number-style="arabic">
+          <item>In a clear glass, put in cold water and ice.</item>
+          <item>Condensation should form on the outside of the glass.</item>
+          <item>Explain or let your students try to explain what states of matter they see. In this example, the water is a liquid and the ice is a solid. The “wetness” on the outside of the glass is a liquid that forms as the water vapor (gas) from the outside air cools and condenses onto the glass.</item>
+          <item>It is strongly recommended that you use a hot plate to demonstrate gas as the third state of matter, and how heat energy can change the  state of matter. Heating a pot of water until it begins to steam, you can explain to students that heat energy from the hot plate is converting some of the liquid water into the gas (steam) that is being released.</item>
+          <item>Ask students to explain what transfers of heat energy are causing the changes in states of matter that they are observing.</item>
+        </list>
+        <para id="id1167961927779">
+          <figure id="id7114747">
+            <media id="id7114747_media" alt="">
+              <image mime-type="image/png" src="../../media/Picture 1-87f8.png" id="id7114747__onlineimage" height="327" width="224"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id1167960141654">Credit: http://www.acornadvisors.com</para>
+      </section>
+      <section id="id1167977391304"><title>Step-by-Step Suggested Lesson Plan</title><para id="id1167945548231">Note: Page numbers listed in the Student Activity column refer to Student worksheets.</para>
+       <table id="id1165921661447" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>Instructor Activity</entry>
+            <entry>Student Activity</entry>
+          </row>
+          <row>
+            <entry>Explain the purpose of the curriculum. Let the students know that they will be learning about the Earth’s atmosphere, air pollution, and meteorology.</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry><emphasis effect="bold">Demonstration:</emphasis> The Three States of Water (icewater demonstration on previous page)</entry>
+            <entry>Students observe the demonstration and answer questions (p. 1)</entry>
+          </row>
+          <row>
+            <entry><emphasis effect="bold">Optional Video:</emphasis> “States of Matter” on Brainpop.com.</entry>
+            <entry>Students watch and take notes</entry>
+          </row>
+          <row>
+            <entry><emphasis effect="bold">Demonstration:</emphasis> Ask the class to blow up balloons, and ask them what is filling up the space inside.</entry>
+            <entry>Students participate in balloon activity and learn that air is a gas</entry>
+          </row>
+          <row>
+            <entry><emphasis effect="bold">Brainstorming:</emphasis> Ask students why they cannot see the air around them. Then, ask them to describe experiences that they have had that demonstrate that air exists. For example, blowing warm air on a mirror (warm air condenses onto cool surface), seeing wind turn a pinwheel or windmill, blowing bubbles underwater, etc.</entry>
+            <entry>Students brainstorm other examples that show air exists and write down examples (top of p. 2)</entry>
+          </row>
+          <row>
+            <entry><emphasis effect="bold">Discussion/Brainstorming:</emphasis> Share with students interesting facts from the “Background Information” section about the air and the atmosphere to pique their interest about the atmosphere. Brainstorm with students about why the atmosphere, though so thin, is actually quite important.</entry>
+            <entry>Students discuss, ask questions, and answer questions at bottom of p. 2.</entry>
+          </row>
+          <row>
+            <entry><emphasis effect="bold">Demonstration:</emphasis> Introduce each measuring tool to the students, and invite questions from the students as they pass around the tools. Let students know how each tool works, and that they will get to use them to measure air pollution and meteorology.Ozone stripsOzone scannerInfrared thermometer gunHygrometerCloud chartsWind vaneThermal glove</entry>
+            <entry>Students interact with each other and with the teacher as they handle each instrument and learn how each one works in preparation for Lesson Two. Students fill in instrument names and what they measure (p.3)</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <section id="id1165940314380">
+      <title>Expected Outcomes:</title>
+      <list id="id1165922880152" list-type="enumerated" number-style="arabic">
+        <item>Students are reacquainted with the three states of matter.</item>
+        <item>Students seek out examples of how transfers of heat energy can cause the state of matter to change.</item>
+        <item>Students identify examples that demonstrate the existence of air and the importance of the atmosphere.</item>
+        <item>Though students may not understand exactly how the measuring instruments work, they become familiar with each instrument to help prepare them for the measurements in the following class periods.</item>
+        <item>Students should complete Lesson One Journal Activities.</item>
+      </list>
+    </section>
+</section>
+      
+   
+  </content>
+</document>

@@ -1,0 +1,131 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Rice Air Curriculum - Lesson 7 (Student): Analyzing GLOBE Data</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34368</md:content-id>
+  <md:title>Rice Air Curriculum - Lesson 7 (Student): Analyzing GLOBE Data</md:title>
+  <md:abstract/>
+  <md:uuid>cdb3c6fc-0617-4c6e-b583-c6ed58497d35</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="Lesson 7 (Student).doc" strength="3">Lesson 7 (Student)</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1165286468681"><title>Overview</title><para id="id1165310498255">Now that you have finished taking all of your GLOBE measurements, today you will be able to analyze the data you have collected. You have been measuring surface and air temperature, wind, humidity, types of cloud cover, and the amount of ozone outside. Your goal is to understand how the amount of ozone found in the air is related to the measurements. You will be able to do this by doing simple calculations and creating charts, graphs, and pictures to represent your data. This way you can visually see your data in an easy way and look at different trends. For example you will be able to answer the following question:</para>
+	<para id="id1165298264070">How does air temperature relate to the amount of low-level ozone in the air? Does ozone increase or decrease when temperature is warmer?</para>
+	<para id="id1165305931262">Analyzing the data in this way will help you see whether the data supports the hypotheses you made during Lesson Five. You will then be able to come up with a conclusion that you can share with other students and your teacher.</para>
+	<para id="id1165300475745">Good luck! </para>
+</section>
+    <section id="id1165307745713">
+      <title>GLOBE Measurements</title>
+      <para id="id1165297045797">Now that you have finished taking five sets of GLOBE measurements, today you will compile the data you have gotten, and look at it for interesting trends.</para>
+      <para id="id1165280794083">Get out your GLOBE Measurement Data Sheets.</para>
+      <list id="id1165300346877" list-type="bulleted">
+        <item>Fill in the “AQI” row with the correct “Health Word” from the chart below.</item>
+      </list>
+      <para id="id1165299172718">
+        <figure id="id1165297982593">
+          <media id="id1165297982593_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-8125.png" id="id1165297982593__onlineimage" height="318" width="599"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id1165283061305" list-type="bulleted">
+        <item>Find the average air temperature on each measurement day by averaging the air temperature from the beginning and end of class. Record your answers, along with each day’s ozone concentration, in the chart below.</item>
+      </list>
+      <figure id="id1165311909057">
+        <media id="id1165311909057_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-14d5.png" id="id1165311909057__onlineimage" height="146" width="514"/>
+        </media>
+      </figure>
+      <list id="id1165305976100" list-type="bulleted">
+        <item>Now we are going to make a graph so we can see how the amount of ozone in the air is related to the average air temperature. On the graph below, Average Air Temperature (⁰ C) is the x-axis, and Ozone Concentration (parts per billion) is the y-axis. Plot the data from the chart above onto the graph below. Draw a dot (●) for each day of measurements.</item>
+      </list>
+      <para id="id1165293336025">
+        <figure id="id1165297016974">
+          <media id="id1165297016974_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-ee93.png" id="id1165297016974__onlineimage" height="399" width="582"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id1165299687573" list-type="bulleted">
+        <item>How is humidity related to the concentration of ozone in the air? Let’s find out by graphing Humidity (%) on the x-axis and Ozone Concentration (parts per billion) on the y-axis.</item>
+      </list>
+      <list id="id1165300043915" list-type="bulleted">
+        <item>Find the average relative humidity by averaging the relative humidity when the ozone strip was exposed and when the ozone strip was read for each day.</item>
+        <item>Record your answers and the ozone concentration for each day in the chart below:</item>
+      </list>
+      <figure id="id1165297567691">
+        <media id="id1165297567691_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-715d.png" id="id1165297567691__onlineimage" height="145" width="514"/>
+        </media>
+      </figure>
+      <list id="id1165297561566" list-type="bulleted">
+        <item>Plot the data from the chart onto the graph below. Draw a dot (●) for each day of measurements.</item>
+      </list>
+      <para id="id1165305798693">
+        <figure id="id1165281476344">
+          <media id="id1165281476344_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 2-236c.png" id="id1165281476344__onlineimage" height="480" width="635"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id1165296704668" list-type="bulleted">
+        <item>Finally, let’s look at the surface temperatures that you took in three different places. Did you perhaps notice that some types of surfaces are consistently hotter or colder than other types of surfaces? Let’s create a line graph so that we more easily see if this is true.</item>
+      </list>
+      <list id="id1165298523314" list-type="bulleted">
+        <item>The y-axis of the graph will have surface temperature in Celsius and the x-axis will have the days you took the temperature.</item>
+        <item>Color in the Legend below the graph, choosing one color for each surface. For example, you could choose green for Surface Temperature #1, red for Surface Temperature #2, and black for Surface Temperature #3. Write a name for each surface explaining where it was measured (e.g., “grassy field”). </item>
+        <item>Graph Surface Temperature #1 by drawing 5 dots for the temperature found each day, using the color from your Legend. Connect the dots to create a line graph.</item>
+        <item>Then, do the same thing for Surface Temperature #2 and Surface Temperature #3. You will end with three differently-colored lines on your graph.</item>
+      </list>
+      <para id="id1165300427548">
+        <figure id="id3520594">
+          <media id="id3520594_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 4-a2af.png" id="id3520594__onlineimage" height="424" width="490"/>
+          </media>
+        </figure>
+      </para>
+      <list id="id1165310818541" list-type="bulleted">
+        <item>Is there a type of surface that is consistently cooler or warmer than the others? Why is this so?</item>
+      </list>
+      <list id="id1165305873990" list-type="bulleted">
+        <item>Consider your Ozone Concentration versus Average Air Temperature graph. Can you see any relationship between ozone concentration and air temperature? Does ozone increase or decrease when air temperature increases? Fill in the first row of the Table below with your answer.</item>
+      </list>
+      <list id="id1825258" list-type="bulleted">
+        <item>Now consider your Ozone Concentration versus Relative Humidity graph. Do you see any relationship between humidity and ozone concentration? Fill in the second row of the Table below with your answer.</item>
+      </list>
+      <list id="id1165310491837" list-type="bulleted">
+        <item>Now look at your Data Sheet. Do you see any relationship between Cloud Cover and ozone concentration? Fill in the third row of the Table below.</item>
+      </list>
+      <list id="id1165296700770" list-type="bulleted">
+        <item>Now look back at the chart you filled in during Lesson Five with your hypotheses. Were your hypotheses supported by the data that you measured? </item>
+      </list>
+      <para id="id1165280051001">
+        <note id="id1165280935988" type="Note">Positive Correlation means that when air temperature, humidity, or cloud cover increased, ozone concentration increased. </note>
+      </para>
+      <note id="id1165310689950" type="Note">Negative Correlation means that if air temperature, humidity, or cloud cover increased, ozone concentration decreased. </note>
+      <note id="id1165300316742" type="Note">No Correlation means that there is no clear relationship in the data.</note>
+      <para id="id1165297816866"/>
+      <figure id="id1165297060824">
+        <media id="id1165297060824_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-72cd.png" id="id1165297060824__onlineimage" height="275" width="596"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id1165298477742">
+      <title>Reflection</title>
+      <para id="id1165305873552">Now that you have completed all of the lessons and have analyzed all of your measurements, what have you learned? Take a moment to reflect on your experiences in measuring and learning about the atmosphere.</para>
+      <list id="id1165284650523" list-type="enumerated" number-style="arabic">
+        <item>What did you find most fun about the lessons?</item>
+        <item>What were the 3 most interesting facts that you learned?</item>
+        <item>Were you surprised by any of the relationships you found in your data? Remember, five days of measurements is only a beginning for evaluating hypotheses, so it’s ok if you found some unexpected relationships.</item>
+      </list>
+    </section>
+  </content>
+</document>

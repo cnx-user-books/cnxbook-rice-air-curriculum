@@ -1,0 +1,78 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Rice Air Curriculum - Lesson 6 (Student): Climate Change</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34376</md:content-id>
+  <md:title>Rice Air Curriculum - Lesson 6 (Student): Climate Change</md:title>
+  <md:abstract/>
+  <md:uuid>a133f5c1-6119-4a4c-a132-ceef63f66f93</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="Lesson 6 (Student).doc" strength="3">Lesson 6 (Student)</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1167597575252">
+      <title>Overview</title>
+      <para id="id2159126">Today, you will be taking your last GLOBE measurements – measuring the amount of tropospheric ozone in the air, the type of cloud cover, the surface and air temperature, wind direction, and humidity.</para>
+      <para id="id1167588228283">We are going to learn about global warming, which occurs when Earth’s climate becomes warmer. Certain gases in the atmosphere, like carbon dioxide, are called greenhouse gases because they trap in Earth’s warmth. Without them, most of Earth’s surface would be frozen. However, emitting more of these gases to the atmosphere can contribute to global warming. You will learn about some of the possible impacts of global warming today.</para>
+      <para id="id1167611416338">Energy efficiency and alternative sources of energy can help reduce emissions of greenhouse gases. For example if cars can use gasoline more efficiently, less air pollutants and greenhouse gases will be released into the air.</para>
+      <para id="id1167618737440">You will also be able to calculate your “carbon footprint.” A carbon footprint tells you how much carbon dioxide is emitted as a result of your day‐to‐day actions. It can also tell you how you could change your actions so that fewer pollutants are released into the air.</para>
+    </section>
+    <section id="id1611245">
+      <title>  Interactive Map: Global Warming Impacts</title>
+      <para id="id1167613844822">1. Go to <emphasis>www.nationalgeographic.com</emphasis>. Click on “Environment” on the left-hand side of the screen. Then click on the “Effects of Global Warming,” found in the dark green box entitled “Environment Topics.” Scroll down and click on “Interactive: Map of Impacts.” </para>
+      <note id="id1167581588625" type="Note">(The direct link is: http://environment.nationalgeographic.com/environment/global-warming/gw-impacts-interactive.html )</note>
+      <para id="id1167589147002">2. You should see a world map on the screen. On the map, you can see the effects global warming can have around the world if the climate continues to warm. Mark and write down three effects that you find interesting on the map below.</para>
+      <para id="id1167585166118">
+        <figure id="id1167584153640">
+          <media id="id1167584153640_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-28b7.png" id="id1167584153640__onlineimage" height="347" width="661"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1167580685414"/>
+      <exercise id="id1167609479075">
+        <problem id="oo-id1167580153599">
+          <para id="id7524286">Click on one of the impacts to go into more detail. What does it say?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="id1167615704422">
+      <title>Measuring Your Carbon Footprint</title>
+      <para id="id1167579655283">1. Go to www.epa.gov/climatechange/kids/calc/index.html</para>
+      <para id="id1167581850505">2. Follow the instructions on the screen, and answer the questions that pop up.</para>
+      <para id="id1167586187512">3. On each screen, you can answer “Yes” if you will take that action, “No” if you will not, or “I already do this” if you are already taking this action. You can learn about each action by following the “Find out more” link.</para>
+      <para id="id1167615999901">4. When you have completed answering all of the questions, “Your Summary” will come up on the screen. Fill in the blanks with your results:</para>
+      <exercise id="id1167619185591">
+        <problem id="oo-id1167579852716">
+          <para id="id2116100">Based on what you're already doing, you're avoiding ___________lbs of CO2 per year.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167594910861">
+        <problem id="oo-id1167578838967">
+          <para id="id1167606457195">This is equivalent to the emissions from driving a car ___________ miles.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167607073216">
+        <problem id="oo-id1167580153987">
+          <para id="id1167612395080">If you take the additional actions that you checked above, you will avoid another __________lbs of CO2 per year.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167619147913">
+        <problem id="oo-id1167580316619">
+          <para id="id8870694">This is equivalent to the emissions from driving a car ___________ miles.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167580056927">
+        <problem id="oo-id1167579857577">
+          <para id="id1167587074424">Make a list of actions you could take to reduce your carbon footprint.</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+</document>

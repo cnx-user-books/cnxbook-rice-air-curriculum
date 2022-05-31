@@ -1,0 +1,176 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Rice Air Curriculum - Lesson 3 (Teacher): Atmospheric Gases and their Cycles</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34375</md:content-id>
+  <md:title>Rice Air Curriculum - Lesson 3 (Teacher): Atmospheric Gases and their Cycles</md:title>
+  <md:abstract/>
+  <md:uuid>3d0bb71e-dfd7-4f24-8b63-2e846cff2f65</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="Lesson 3 (Teacher).doc" strength="3">Lesson 3 (Teacher)</link>
+      <link url="Lesson 3 (Key).doc" strength="3">Answer Key to Lesson 3 Student Worksheets</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <note id="id3209382" type="Note">Suggested Time: 90 minutes. Science TEKS: 3.11, 5.1, 5.2, 5.3, 5.4, 5.5, 5.6. Math TEKS: 5.11, 5.14, 5.15 </note>
+    <section id="id1164433109472">
+      <title>Objective</title>
+      <para id="id1164434541043">Now that students have a basic knowledge of the physical structure of the atmosphere, this lesson goes into much further detail about the most common gases that make up the atmosphere. The significance of the water cycle, the oxygen cycle, and the carbon cycle will be covered. The gases discussed today compose the vast majority of air molecules in the atmosphere; in later lessons, students will learn about air pollutants that greatly affect our health and environment even in very small quantities. </para>
+    </section>
+    <section id="id1347098">
+      <title>Background Information</title>
+      <para id="id1164433627568">The <emphasis>atmosphere</emphasis> is made up of five main gases – nitrogen (N2), oxygen (O2), argon (Ar), water vapor (H2O), and carbon dioxide (CO2). There are many other gases in very trace amounts, some of which are called air pollutants if they harm the health of humans, plants, or animals, and some of which are greenhouse gases that trap in the Earth’s warmth. </para>
+      <para id="id1164437581860">To visualize the composition of the atmosphere, suppose you gathered 100 random molecules of dry air. Most likely, 78 of them would be nitrogen molecules (N2), 21 of them would be oxygen molecules (O2), and 1 of them would be an argon molecule (Ar). Depending on how warm and humid the air is, zero to four of the 100 molecules would be replaced by molecules of <emphasis>water vapor</emphasis> (H2O). </para>
+      <para id="id1164432877041">Now suppose that you could randomly choose 1 million molecules of air. Almost all of them (about 999,610 molecules) would be the gases we listed above: nitrogen (N2), oxygen (O2), argon (Ar), and water vapor (H2O). About 385 of them would be carbon dioxide (CO2). This is less than one-tenth of 1 percent of the Earth’s atmosphere, but in Lesson 6 we’ll see it has a huge effect on Earth’s climate. Most of the other air pollutants that we’ll study in later lessons have concentrations of less than 1 part per million, so we might not even see one in our collection of 1 million air molecules. However, we’ll learn later that these air pollutants can have important effects on our health and environment. </para>
+      <para id="id1164438742207">The main gases of the atmosphere undergo important cycles that are vital to life on Earth. The most apparent of these cycles is the <emphasis>water cycle</emphasis>, which includes all the movements of water between Earth’s atmosphere, bodies of water, and underground. The total amount of water on Earth is constant, but water is continually moving to different locations and changing its form (solid, liquid, or gas). </para>
+      <figure id="id1164437634430">
+        <title>The Water Cycle</title>
+        <media id="id1164437634430_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-de26.png" id="id1164437634430__onlineimage" height="396" width="600"/>
+        </media>
+        <caption>Credit: http://www.dnr.state.wi.us/org/caer/ce/eek/earth/groundwater/images/groundwater.gif</caption>
+      </figure>
+      <para id="id1164440458223">The following steps make up the water cycle. Energy from the Sun <emphasis>evaporates</emphasis> liquid water from lakes and oceans to become water vapor gas in the air. Plants also release water vapor to the atmosphere by <emphasis>transpiration</emphasis>. The water vapor <emphasis>condenses</emphasis> back to liquid water higher in the troposphere, because the cooler air there cannot hold as much water vapor as warm air (recall condensation on a cold glass of water). This <emphasis>condensation</emphasis> occurs on small particles, forming <emphasis>clouds</emphasis>. Clouds can also form on the ground – this is called fog.</para>
+      <para id="id1164444965122">As more water vapor condenses and the cloud droplets grow large enough, the water can fall as <emphasis>precipitation</emphasis> (rain, snow, or hail). Precipitation varies in type and amount in different parts of the world. Oceans, rivers, and lakes store this water. <emphasis>Infiltration </emphasis>allows some of the water to move underground into the groundwater and water table. Other water evaporates from the bodies of water, starting the water cycle all over again. </para>
+      <para id="id1164438730006">The water cycle plays an integral role in the measurements students are taking. <emphasis>Humidity </emphasis>is the measure of the amount of water vapor in the air. The hygrometer that the students are using measures <emphasis>relative humidity</emphasis>: the ratio of the amount of water vapor in the air to the maximum amount that the air could hold at its current temperature, expressed as a percentage. Students are also observing <emphasis>cloud types</emphasis> in the GLOBE measurements.</para>
+      <figure id="id1164436755990">
+        <title>Cloud Types</title>
+        <media id="id1164436755990_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-a221.png" id="id1164436755990__onlineimage" height="389" width="556"/>
+        </media>
+        <caption/>
+      </figure>
+      <para id="id1164435709627">The <emphasis>oxygen cycle</emphasis> is critically important to sustaining the life on earth – without it, none of us would be alive! During <emphasis>photosynthesis</emphasis>, plants absorb carbon dioxide and sunlight and release oxygen to the atmosphere. Humans and other animals use the oxygen in the air. After the oxygen is used by the body, it is breathed back out as carbon dioxide in a process called respiration. Plants also consume some oxygen and release carbon dioxide through <emphasis>respiration</emphasis>.</para>
+      <figure id="id1164433104753">
+        <title>The Oxygen Cycle</title>
+        <media id="id1164433104753_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-8e54.png" id="id1164433104753__onlineimage" height="419" width="523"/>
+        </media>
+        <caption>Credit: http://www.kidsgeo.com/geography-for-kids/0160-the-oxygen-cycle.php</caption>
+      </figure>
+      <para id="id1164433175791">The oxygen cycle is closely intertwined with the carbon cycle. The <emphasis>carbon cycle</emphasis> is how all of the carbon atoms that exist move around on the earth and in the atmosphere. In <emphasis>photosynthesis</emphasis>, plants absorb sunlight and carbon dioxide in order to grow. The carbon is stored in the plants as sugars, starches, and other compounds. Animals eat these plants or other animals and the carbon moves into them. These animals, and humans too, release the carbon dioxide into the atmosphere when they breathe out. When plants and animals die, they decay, and the carbon is returned to the air or ground, where some of it can be reused by plants or small microorganisms. Over millions of years, some of the carbon can transform into fossil fuels. When these fossil fuels are burned by cars or factories, carbon dioxide is released into the air.</para>
+      <para id="id1164437643182">Despite its small concentration, carbon dioxide plays an important role – it acts as a greenhouse gas, keeping the Earth warm; plants use it for photosynthesis; and it is released when we breathe out or material decays. We will discuss carbon dioxide in much greater detail in Lesson 6.</para>
+      <figure id="id1164440053591">
+        <title>The Carbon Cycle</title>
+        <media id="id1164440053591_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-755b.png" id="id1164440053591__onlineimage" height="560" width="564"/>
+        </media>
+        <caption>Credit: http://www.windows.ucar.edu/tour/link=/earth/climate/images/carboncycle_jpg_image.html&amp;edu=elem</caption>
+      </figure>
+    </section>
+    <section id="id3191998">
+      <title>Vocabulary </title>
+      <para id="id1164433586586">• Clouds</para>
+      <para id="id1164447170630">• Water Cycle</para>
+      <para id="id4955678">• Carbon cycle</para>
+      <para id="id1411927">• Oxygen cycle</para>
+      <para id="id1164433643980">• Humidity</para>
+      <para id="id1164433180907">• Relative Humidity</para>
+      <para id="id1164434562646">• Precipitation</para>
+      <para id="id1164433373983">• Condensation</para>
+      <para id="id1164434520844">• Evaporation</para>
+      <para id="id1164444234613">• Infiltration</para>
+      <para id="id1427554">• Transpiration</para>
+      <para id="id1164433411003">• Cirrus</para>
+      <para id="id1164435219146">• Cumulonimbus</para>
+      <para id="id1164432909093">• Cumulus</para>
+      <para id="id1164433563989">• Stratus</para>
+      <para id="id1164439139295">• Surface Water</para>
+      <para id="id1164439992277">• Respiration</para>
+      <para id="id1164434254745">• Photosynthesis</para>
+    </section>
+    <section id="id1164433080636">
+      <title>Materials (for a class of 25)</title>
+      <para id="id1164439791966">• Hygrometer (1)</para>
+      <para id="id1164433389241">•  Infrared Thermometer (1)</para>
+      <para id="id1164433163504">•  Ozone Test Strip (1)</para>
+      <para id="id1164440647632">•  Ozone Scanner (1)</para>
+      <para id="id1164440626282">•  Wind Vane (1)</para>
+      <para id="id1164439473164">•  Thermal Glove (1)</para>
+      <para id="id1164436325251">•  Cloud Charts </para>
+      <para id="id1164434265402">• GLOBE Data Sheets</para>
+      <para id="id1164434946928">• Computer</para>
+      <para id="id1164433426493">• Projection Screen</para>
+      <para id="id1164433271876">• Access to Brainpop.com</para>
+      <para id="id1164433273548">• 101 Cloud Activities</para>
+      <para id="id1164440357482">• Cotton Balls</para>
+      <para id="id1164440101730">• Various Art Supplies</para>
+    </section>
+    <section id="id1164443801910">
+      <title>Step-by-Step Suggested Lesson Plan</title>
+      <table id="id1164437869139" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis>Instructor Activity</emphasis>
+              </entry>
+              <entry>
+                <emphasis>Student Activity</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry><emphasis>Measurements.</emphasis> Take your students outside and conduct the GLOBE protocols. Students should set up the ozone strip, take the air and surface temperature, observe the sky for clouds, and measure humidity and wind direction.</entry>
+              <entry>Students take measurements.</entry>
+            </row>
+            <row>
+              <entry><emphasis>Review.</emphasis> Take a few minutes to review what students have already learned about the atmosphere (e.g. its importance, layers, temperature, and wind).</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry><emphasis>Discussion.</emphasis> Next, introduce students to the 5 main gases that make up the atmosphere (nitrogen, oxygen, argon, water vapor, and carbon dioxide), using information from the “Background Information” section. You can have students pretend to be different types of air molecules to visualize ratios of molecules (for example, about one-fifth of air molecules are oxygen). Explain the concept of a “cycle”, and point out that we’ll be discussing cycles that affect three of the main gases: water, oxygen, and carbon.</entry>
+              <entry>Students answer journal question: (p.1)</entry>
+            </row>
+            <row>
+              <entry><emphasis>Water Cycle Video and Discussion.</emphasis> Introduce the water cycle with the Brainpop.com video: Water Cycle (Optional: accompanying Brainpop quiz and activity). Explain the processes of evaporation, transpiration, condensation, precipitation, and infiltration. Ask students for examples of types of precipitation.</entry>
+              <entry>Students watch video (and participate in optional quiz and activity), participate in discussion, and fill out journal questions (p. 2)</entry>
+            </row>
+            <row>
+              <entry><emphasis>Humidity Discussion.</emphasis> Ask students to recall the Water in Three States Demonstration from Lesson One (or, repeat the demonstration). Remind them that the water that condensed on the glass came from water vapor in the air. Explain that humidity is a measure of how much water vapor the air contains. Hold up the GLOBE hygrometer to remind them of how they are measuring humidity.</entry>
+              <entry>Students answer journal questions (top of p. 3)</entry>
+            </row>
+            <row>
+              <entry><emphasis>Clouds discussion.</emphasis> Give a short lecture about clouds. Teach the students about the different types of clouds, how they are formed, and where they are found. Students should be somewhat familiar with recognizing clouds, as they have already done a bit with the GLOBE protocol. </entry>
+              <entry>Students answer journal questions: (bottom of p. 3)</entry>
+            </row>
+            <row>
+              <entry>Pick 1 cloud activity to do with the class, from the 101 Cloud Activities in the GLOBE kit. Students may split into smaller groups to do the activities and play the games.</entry>
+              <entry>Students complete cloud activity.</entry>
+            </row>
+            <row>
+              <entry><emphasis>Art Activity (optional):</emphasis> Ask the class to draw a model of the water cycle. Make sure that they can name all parts of the cycle. Cotton balls can be used to create the clouds, and they should be able to differentiate between different shapes of clouds. You can hang these models up in the classroom for future reference. Students may use construction paper, markers, crayons, glue and scissors to create the model. The following parts of the water cycle should be clearly shown and labeled on the model: evaporation, transpiration, condensation, precipitation, and infiltration. The following types of clouds should be created with the cotton balls: cumulus, stratus, cirrus, cumulonimbus.</entry>
+              <entry>Students complete art activity.</entry>
+            </row>
+            <row>
+              <entry><emphasis>Discussion of oxygen and carbon cycles.</emphasis> Explain to students the importance of the oxygen cycle and carbon cycle and the key processes in each. Point out how the two cycles are very closely related, with photosynthesis and respiration playing important roles in each.</entry>
+              <entry>Students answer journal questions (p. 4-5).</entry>
+            </row>
+            <row>
+              <entry>Give students 3 minutes to complete the worksheets.</entry>
+              <entry>Students answer journal question (p. 6)</entry>
+            </row>
+            <row>
+              <entry>Take your class outside, and scan the ozone strip. Also, retake the surface and air temperature, and the humidity so that students can take the average of these measurements in order to supplement their ozone measurements.</entry>
+              <entry>Students take measurements.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="id4955492">
+        <title>Expected Outcomes </title>
+        <list id="id1164444562168" list-type="enumerated" number-style="arabic">
+          <item>Students will be able to list the gases of the atmosphere and the relative abundance of each.</item>
+          <item>Students should be able to draw and label a diagram of the water, oxygen, and carbon cycles and explain in a few sentences the importance of each.</item>
+          <item>Students should complete Lesson Three Journal Activities.</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>
